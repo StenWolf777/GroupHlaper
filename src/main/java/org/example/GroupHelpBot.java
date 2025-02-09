@@ -60,6 +60,22 @@ public class GroupHelpBot extends TelegramLongPollingBot {
         spamKeywords.add("blyat");
         spamKeywords.add("kallanga skey gandon");
         spamKeywords.add("Kallanga sekey gandon");
+        spamKeywords.add("itti keingi oyog'i");
+        spamKeywords.add("pizdes");
+        spamKeywords.add("ambosh");
+        spamKeywords.add("esheni ami");
+        spamKeywords.add("buvini ami");
+        spamKeywords.add("ittan tarqagan jalab");
+        spamKeywords.add("gandonbek");
+        spamKeywords.add("haromi");
+        spamKeywords.add("xaromzoda");
+        spamKeywords.add("xaromzoda");
+        spamKeywords.add("bo'q");
+        spamKeywords.add("bo'q");
+        spamKeywords.add("boqimni yepsan");
+        spamKeywords.add("boimmi yepsan");
+        spamKeywords.add("kapak");
+        spamKeywords.add("bitliqi");
     }
 
     @Override
