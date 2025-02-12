@@ -27,19 +27,19 @@ public class GroupHelpBot extends TelegramLongPollingBot {
         spamKeywords.add("haqorat");
         spamKeywords.add("nojo'ya");
         spamKeywords.add("gandon");
-        spamKeywords.add("yeban");
+        spamKeywords.add("yiban");
         spamKeywords.add("dalbayob");
         spamKeywords.add("jalab");
-        spamKeywords.add("onangni skey");
+        spamKeywords.add("onangni skiy");
         spamKeywords.add("qotaq");
-        spamKeywords.add("kallanga qoatagi'm");
+        spamKeywords.add("kallanga qoatagim");
         spamKeywords.add("qiz sikdik");
-        spamKeywords.add("og'zinga qo'tag'im");
+        spamKeywords.add("og'zinga qotagim");
         spamKeywords.add("qanjiq");
         spamKeywords.add("jalabcha");
         spamKeywords.add("kallanga ski");
-        spamKeywords.add("kallanga skey");
-        spamKeywords.add("KALLANGA SKEY");
+        spamKeywords.add("kallanga skay");
+        spamKeywords.add("KALLANGA SKAY");
         spamKeywords.add("dalbayobmisan");
         spamKeywords.add("Dalbayobmisan");
         spamKeywords.add("yebanmisan");
@@ -57,7 +57,7 @@ public class GroupHelpBot extends TelegramLongPollingBot {
         spamKeywords.add("xuyet qivossanmi");
         spamKeywords.add("sskib qo'yaman");
         spamKeywords.add("Kallanga qotag'm");
-        spamKeywords.add("blyat");
+        spamKeywords.add("blya");
         spamKeywords.add("kallanga skey gandon");
         spamKeywords.add("Kallanga sekey gandon");
         spamKeywords.add("itti keingi oyog'i");
@@ -76,7 +76,12 @@ public class GroupHelpBot extends TelegramLongPollingBot {
         spamKeywords.add("boimmi yepsan");
         spamKeywords.add("kapak");
         spamKeywords.add("bitliqi");
-    }
+        spamKeywords.add("chumo");
+        spamKeywords.add("qse");
+        spamKeywords.add("kotinga sikaman");
+        spamKeywords.add("ogzinga beraman");
+        spamKeywords.add("kal boshinga skey");
+        }
 
     @Override
     public void onUpdateReceived(Update update) {
